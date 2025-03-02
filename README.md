@@ -73,13 +73,13 @@ Full-stack travel platform with:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSriTarun&layout=compact&theme=radical&cache_seconds=1800" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSriTarun&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KrishnaSriTarun&show_icons=true&theme=radical&cache_seconds=1800" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KrishnaSriTarun&show_icons=true&theme=radical" alt="github stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSriTarun&theme=radical&cache_seconds=1800" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSriTarun&theme=radical" alt="streak stats" />
 </p>
