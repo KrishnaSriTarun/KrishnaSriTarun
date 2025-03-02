@@ -48,7 +48,6 @@ Travel website built with MERN stack featuring:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
 
 Full-stack travel platform with:
-- Passport.js authentication
 - Interactive reviews
 - Location-based recommendations
 - Deployed on Render for scalability
@@ -65,11 +64,10 @@ Java-based student management system:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaSriTarun&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaSriTarun&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSriTarun&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSriTarun&theme=dark&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ## 🌟 Work Experience
