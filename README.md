@@ -44,7 +44,7 @@ Travel website built with MERN stack featuring:
 - Interactive review system
 - RESTful APIs for seamless integration
 
-### [Talk Travel](https://talk-8oti.onrender.com/talk)
+### [Talk Social Media Website](https://www.thetalk.org.in/)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
 
 Full-stack travel platform with:
@@ -52,14 +52,6 @@ Full-stack travel platform with:
 - Location-based recommendations
 - Deployed on Render for scalability
 
-### University Management Application
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>
-
-Java-based student management system:
-- Built with Java Swing and MySQL
-- Streamlined administrative processes
-- Reduced manual workload by 30%
-- Intuitive GUI for student, faculty, and examination data management
 
 ## 📊 GitHub Stats
 
