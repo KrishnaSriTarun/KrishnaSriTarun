@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
-Full Stack Developer with expertise in MERN stack and Java technologies. I'm passionate about creating efficient, user-centric web applications and exploring machine learning concepts.
+Full Stack Developer with expertise in MERN stack and Java Full Stack technologies. I'm passionate about creating efficient, user-centric web applications and exploring machine learning concepts.
 
 ## 🚀 About Me
 - 🎓 B.Tech in Artificial Intelligence and Machine Learning from Kakinada Institute of Engineering And Technology (2021-2025)
@@ -90,9 +90,5 @@ Full-stack travel platform with:
 I enjoy mentoring students on machine learning concepts and web development projects. I've guided 10+ teams with a 70% project success rate.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishnaSriTarun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 *Feel free to explore my repositories and reach out for collaboration!*
