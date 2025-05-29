@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
-Full Stack Developer with expertise in MERN stack and Java Full Stack technologies. I'm passionate about creating efficient, user-centric web applications and exploring machine learning concepts.
+Full Stack Developer with expertise in MERN stack and Java Full Stack technologies. I'm passionate about creating efficient, user-centric web applications and exploring machine learning concepts
 
 ## 🚀 About Me
 - 🎓 B.Tech in Artificial Intelligence and Machine Learning from Kakinada Institute of Engineering And Technology (2021-2025)
